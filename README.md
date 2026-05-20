@@ -1,29 +1,89 @@
 # Hi there, I'm Elwan 👋
 
-I am a Computer Science sophomore at Cairo University building a versatile engineering foundation. I actively train for competitive programming (ECPC/ICPC) and specialize across three core pillars: **Low-Level Systems**, **Software Engineering**, and **AI Engineering**. 
+Computer Science student at Cairo University with strong interests in software engineering, backend systems, problem solving, and FinTech.
 
-### 🛠️ Core Engineering Pillars
-* **Low-Level Systems:** C++, CMake, Linux Internals, Real-time Processing (JUCE, ImGui)
-* **Software Engineering:** Object-Oriented Architecture, Full-Stack Web (Django, JS), Desktop Apps (JavaFX)
-* **AI Engineering:** Scikit-Learn, Data Pipelines, AI Infrastructure, Predictive Modeling
+I actively train in competitive programming (ECPC/ICPC) and enjoy building projects across C++, Java, Python, and Django — ranging from desktop applications and backend systems to machine learning projects.
 
 ---
 
-### ⚙️ Low-Level Systems & Architecture
-* 🎵 **[Resonance](https://github.com/MohamedElwan15/Resonance-Music-AudioPlayer.git):** A high-performance, dual-deck C++ audio player built with JUCE.
-* 🎨 **[PixelForge PRO](https://github.com/MohamedElwan15/PixelForge.git):** Hardware-accelerated image processing GUI using C++ and ImGui.
+## 🛠️ Technical Interests
 
-### 💻 Software Engineering & Applications
-* 🎮 **[XO-Ultimate](https://github.com/MohamedElwan15/XO-Ultimate.git):** A C++ board game engine featuring 13 variations and Minimax AI.
-* 🍔 **FCAI SOFRA [Private - Pending]:** A full-stack web application built with Django, JS, and HTML/CSS.
-* 💰 **Masroofy [Private - Pending]:** A local budget management tool engineered with JavaFX and SQLite.
-
-### 🤖 AI Engineering & Data
-* 🚢 **[Titanic Survival Predictor](https://github.com/MohamedElwan15/Titanic-Survival-Predictor.git):** End-to-end ML pipeline with hyperparameter tuning (Top 20% Kaggle).
-* 🏥 **[Insurance Charge Predictor](https://github.com/MohamedElwan15/Insurance-Charge-Predictor.git):** Predictive regression modeling optimized with GridSearchCV.
+* **Backend & Software Engineering:** Django, REST-style APIs, JavaFX, databases, OOP, system design
+* **Problem Solving & Algorithms:** Data structures, competitive programming, optimization
+* **Low-Level & Performance-Oriented Systems:** C++, JUCE, real-time audio applications
+* **AI & Data:** Scikit-learn, Pandas, ML pipelines, predictive modeling
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** [Mohamed Elwan](https://www.linkedin.com/in/m-elwan/)
-* **Codeforces:** [Elwan](https://codeforces.com/profile/MohamedElwan15)
+## 🚀 Featured Projects
+
+### 🎵 Resonance
+
+Dual-deck desktop audio player built in C++ using JUCE featuring:
+
+* real-time audio playback
+* playlist persistence
+* metadata extraction
+* audio visualization
+* simultaneous dual-track playback
+
+🔗 Repository:
+https://github.com/MohamedElwan15/Resonance-Music-AudioPlayer
+
+---
+
+### 💰 Masroofy
+
+Personal finance desktop application built with JavaFX and SQLite featuring:
+
+* budget tracking
+* persistent transaction management
+* PIN authentication
+* MVC architecture
+* database integration with JDBC
+
+🔗 Repository:
+https://github.com/youssef97-7/Personal-Finance-and-Expense-Tracking-Desktop-Application
+
+---
+
+### 🍔 FCAI SOFRA
+
+Django-based web platform with:
+
+* authentication system
+* relational database design
+* CRUD functionality
+* AJAX/fetch interactions
+* REST-style API endpoints
+
+🔗 Repository:
+https://github.com/MohamedElwan15/FCAI-Sofra
+
+---
+
+### 🎮 XO-Ultimate
+
+Modular C++ board game engine implementing:
+
+* 13 game variations
+* Minimax AI
+* alpha-beta pruning
+* reusable game-state architecture
+
+🔗 Repository:
+https://github.com/MohamedElwan15/XO-Ultimate
+
+---
+
+### 🤖 ML Projects
+
+* Titanic Survival Predictor (Top 20% Kaggle ranking)
+* Insurance Charge Predictor using regression and GridSearchCV
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/m-elwan/
+* Codeforces: https://codeforces.com/profile/MohamedElwan15
